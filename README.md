@@ -8,3 +8,5 @@ In this project, I created a login screen that has logo, background, button logi
 * React
 * React-naive
 * Expo
+
+## Screenshot
