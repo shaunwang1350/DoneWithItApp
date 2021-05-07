@@ -10,4 +10,4 @@ In this project, I created a login screen that has logo, background, button logi
 * Expo
 
 ## Screenshot
-![screenshot](/image/ss.jpg)
+<img src="image/ss.jpg" alt="drawing" width="200"/>
